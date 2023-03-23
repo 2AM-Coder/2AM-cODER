@@ -22,5 +22,3 @@
 - Practising on <a href="">Codeforces</a> 
 - Sharing updates on <a href="https://www.linkedin.com/in/sujan-p-s-4a0415225/">LinkedIn</a> 
 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
