@@ -1,7 +1,6 @@
 # Hi, I'm Sujan P S
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Sujan_____?label=Follow)](https://twitter.com/intent/follow?screen_name=Sujan_____)
-[![Linkedin: Sujan](https://img.shields.io/badge/-Sujan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[(https://www.linkedin.com/in/sujan-p-s-4a0415225/)])
 ![GitHub followers](https://img.shields.io/github/followers/2AM-Coder?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=2AM-Coder&color=brightgreen">  
 
