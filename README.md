@@ -11,7 +11,7 @@
 
 💡 &nbsp;Some technologies I enjoy working with include HTML,CSS,ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring Dart/Flutter.\
 🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
-✉️ &nbsp;You can shoot me an email at sujanmayra6362@gmail.com@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at sujanmayra6362@gmail.com! I'll try to respond as soon as I can.
 
 
 
