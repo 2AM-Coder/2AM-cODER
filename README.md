@@ -5,8 +5,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/2AM-Coder?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=2AM-Coder&color=brightgreen">  
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)]()
-
 
 ## 👨🏻‍💻 &nbsp;About Me
 
