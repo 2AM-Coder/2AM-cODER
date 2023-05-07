@@ -9,7 +9,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 💡 &nbsp;Some technologies We enjoy working with include HTML,CSS,ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring Dart/Flutter.\
-🌱 &nbsp;We are Currently Help the Students to Create thier Portfolios,Resume, Sem Mini Projects and Other good Projects.\
+🌱 &nbsp;We are Currently Help the Students to Create their Portfolios,Resume, Sem Mini Projects and Other good Projects.\
 ✉️ &nbsp;You can shoot me an email at 2amcoders@gmail.com ! we'll try to respond as soon as I can.
 
 
