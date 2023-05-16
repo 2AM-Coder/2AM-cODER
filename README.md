@@ -4,7 +4,7 @@
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=2AM-Coder&color=brightgreen">  
 
 
-## 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Us
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -14,7 +14,7 @@
 
 
 
-## Find me around the web 🌎 
+## Find us around the web 🌎 
 
 - Practising on <a href="https://t.me/+VVuqXwes2zFmZjg1">telegram Channel</a> 
 - Sharing updates on <a href="https://www.linkedin.com/company/2am-coders/">LinkedIn</a> 
